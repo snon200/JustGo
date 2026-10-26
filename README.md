@@ -8,7 +8,6 @@ First-person parkour platformer in Unity. Run timed courses, use jump pads and m
 
 - [Just Go! on itch.io](https://snon200.itch.io/just-go)
 - [Parkour FPS controller on the Unity Asset Store](https://assetstore.unity.com/packages/slug/290830) (the movement system used in this game)
-- [snon200 on itch.io](https://snon200.itch.io/)
 - [snon200 on the Unity Asset Store](https://assetstore.unity.com/publishers/14718)
 
 ## Gameplay
