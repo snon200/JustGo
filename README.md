@@ -1,6 +1,7 @@
 # JustGo!
 
 ![JustGo!](docs/screenshot.jpg)
+
 First-person parkour platformer in Unity. Run timed courses, use jump pads and moving or breaking platforms, and post completion times to an online leaderboard.
 
 ## Links
